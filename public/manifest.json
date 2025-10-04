@@ -1,6 +1,7 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Currency Converter",
+  "name": "Currency Converter - Real-time Exchange Rates",
+  "description": "Modern currency converter with real-time exchange rates for multiple currencies",
   "icons": [
     {
       "src": "favicon.ico",
@@ -20,6 +21,7 @@
   ],
   "start_url": ".",
   "display": "standalone",
-  "theme_color": "#000000",
-  "background_color": "#ffffff"
+  "theme_color": "#667eea",
+  "background_color": "#667eea",
+  "categories": ["finance", "utilities"]
 }
