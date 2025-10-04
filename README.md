@@ -2,7 +2,6 @@
 
 A modern, responsive currency converter built with React that provides real-time exchange rates. This project was created as a **coding practice exercise** to strengthen React development skills and API integration.
 
-![Currency Converter](https://via.placeholder.com/800x400/667eea/white?text=Currency+Converter+Preview)
 
 ## 🌟 Features
 
