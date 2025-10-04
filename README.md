@@ -17,7 +17,7 @@ A modern, responsive currency converter built with React that provides real-time
 
 ## 🚀 Live Demo
 
-**🔗 [View Live Demo](https://your-vercel-url.vercel.app)**
+**🔗 [View Live Demo](https://currency-converter-pi-green.vercel.app/)**
 
 ## 🛠️ Technologies Used
 
@@ -26,16 +26,6 @@ A modern, responsive currency converter built with React that provides real-time
 - **CSS3** - Custom styling with flexbox and animations
 - **Frankfurter API** - Free currency exchange rates API
 - **Vercel** - Deployment platform
-
-## 📱 Screenshots
-
-### Desktop View
-
-![Desktop](https://via.placeholder.com/600x300/667eea/white?text=Desktop+View)
-
-### Mobile View
-
-![Mobile](https://via.placeholder.com/300x500/667eea/white?text=Mobile+View)
 
 ## 🎯 Learning Objectives
 
